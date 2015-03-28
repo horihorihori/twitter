@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">twitter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">更新</string>
+    <string name="action_account">アカウント追加</string>
+    <string name="action_tweet">ツイート</string>
+    <string name="twitter_consumer_key">evxieQjlthnrjKR5iwllvKs2S</string>
+    <string name="twitter_consumer_secret">1LpGWD8rWj3yIXhxTiH6F27329SWSYoOc6x8fFQ3AyuVC2Vhu7</string>
+    <string name="twitter_oauth">Twitter認証</string>
+    <string name="twitter_callback_url">hori://twitter</string>
+    <string name="title_activity_tweet">TweetActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

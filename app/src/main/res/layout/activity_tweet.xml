@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.hori.twitter.TweetActivity"
+    android:background="#55000000">
+
+    <Button
+            android:id="@+id/action_tweet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="つぶやく"
+            android:background="#FF000000"
+            android:textColor="#FFFFFFFF"/>
+
+    <EditText
+            android:id="@+id/input_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/action_tweet"
+            android:layout_marginBottom="8dp"
+            android:ems="10"
+            android:gravity="left|top"
+            android:inputType="textMultiLine"
+            android:background="#FFFFFF">
+
+            <requestFocus />
+        </EditText>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView"
+        android:layout_alignTop="@+id/input_text"
+        android:layout_toEndOf="@+id/input_text" />
+
+</RelativeLayout>

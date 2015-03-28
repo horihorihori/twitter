@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MyActivity" >
+    <item android:id="@+id/action_refresh"
+        android:title="@string/action_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_account"
+        android:title="@string/action_account"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_tweet"
+        android:title="@string/action_tweet"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

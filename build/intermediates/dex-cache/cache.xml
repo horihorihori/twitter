@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/hori/AndroidStudioProjects/twitter/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.2-b766cf076643df9635482453d423556e81baf7ba.jar"
+        jar="/Users/hori/AndroidStudioProjects/twitter/app/libs/twitter4j/twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="381cf31e9200c2902782f17248d2af18e2ab4c56"/>
+    <item
+        dex="/Users/hori/AndroidStudioProjects/twitter/app/build/intermediates/pre-dexed/debug/twitter4j-stream-4.0.2-aba53a800d5e5092c3aa81e5df629bf32d5659c8.jar"
+        jar="/Users/hori/AndroidStudioProjects/twitter/app/libs/twitter4j/twitter4j-stream-4.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d3fa9a272ce97601498defa8129edb89e3de2131"/>
+    <item
+        dex="/Users/hori/AndroidStudioProjects/twitter/app/build/intermediates/pre-dexed/debug/android-smart-image-view-1.0.0-2e06856ed9625f23effaa9560d5c7559515688a1.jar"
+        jar="/Users/hori/AndroidStudioProjects/twitter/app/libs/android-smart-image-view-1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d76ea8c3e9a60101244d6d04aff8cc75888570f0"/>
+
+</pre-dex-items>
